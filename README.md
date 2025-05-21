@@ -1,5 +1,6 @@
-#live Demo
-[Chat-Ai](https://chat-ai-eta-six.vercel.app/)
+## 🚀 Live Demo
+
+Check out the live app here: [Chat AI](https://chat-ai-eta-six.vercel.app/)
 
 
 # React + Vite
